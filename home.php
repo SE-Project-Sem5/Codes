@@ -40,22 +40,22 @@
                 <a href="#" style="color: #77920D; font-weight: bold; font-family: Inter; margin-left: 30px; text-decoration: none;" onmouseover="this.style.color= '#FFFFFF'" onmouseout="this.style.color= '#77920D'">Home</a>
             </li>
             <li>
-                <a href="aboutUs.html" style="color: #77920D; font-weight: bold; font-family: Inter; margin-left: 60px; text-decoration: none;" onmouseover="this.style.color= '#FFFFFF'" onmouseout="this.style.color= '#77920D'">About Us</a>
+                <a href="aboutUs.php" style="color: #77920D; font-weight: bold; font-family: Inter; margin-left: 60px; text-decoration: none;" onmouseover="this.style.color= '#FFFFFF'" onmouseout="this.style.color= '#77920D'">About Us</a>
             </li>
             <li>
-                <a href="FAQs.html" style="color: #77920D; font-weight: bold; font-family: Inter; margin-left: 60px; text-decoration: none;" onmouseover="this.style.color= '#FFFFFF'" onmouseout="this.style.color= '#77920D'">FAQs</a>
+                <a href="FAQs.php" style="color: #77920D; font-weight: bold; font-family: Inter; margin-left: 60px; text-decoration: none;" onmouseover="this.style.color= '#FFFFFF'" onmouseout="this.style.color= '#77920D'">FAQs</a>
             </li>
             <li>
-                <a href="contactUs.html" style="color: #77920D; font-weight: bold; font-family: Inter; margin-left: 60px; text-decoration: none;" onmouseover="this.style.color= '#FFFFFF'" onmouseout="this.style.color= '#77920D'">Contact Us</a>
+                <a href="contactUs.php" style="color: #77920D; font-weight: bold; font-family: Inter; margin-left: 60px; text-decoration: none;" onmouseover="this.style.color= '#FFFFFF'" onmouseout="this.style.color= '#77920D'">Contact Us</a>
             </li>
             <li>
-                <a href="rentCars.html" style="color: #77920D; font-weight: bold; font-family: Inter; margin-left: 60px; text-decoration: none;" onmouseover="this.style.color= '#FFFFFF'" onmouseout="this.style.color= '#77920D'">Rent Cars</a>
+                <a href="rentCars.php" style="color: #77920D; font-weight: bold; font-family: Inter; margin-left: 60px; text-decoration: none;" onmouseover="this.style.color= '#FFFFFF'" onmouseout="this.style.color= '#77920D'">Rent Cars</a>
             </li>
             <li>
-                <a href="clientLogin.html" style="color: #77920D; font-weight: bold; font-family: Inter; margin-left: 470px; text-decoration: none;" onmouseover="this.style.color= '#FFFFFF'" onmouseout="this.style.color= '#77920D'">Login</a>
+                <a href="clientLogin.php" style="color: #77920D; font-weight: bold; font-family: Inter; margin-left: 470px; text-decoration: none;" onmouseover="this.style.color= '#FFFFFF'" onmouseout="this.style.color= '#77920D'">Login</a>
             </li>
             <li>
-                <a href="signUp.html" style="color: #77920D; font-weight: bold; font-family: Inter; margin-left: 30px; padding-right: -15px; text-decoration: none;" onmouseover="this.style.color= '#FFFFFF'" onmouseout="this.style.color= '#77920D'">Register</a>
+                <a href="signUp.php" style="color: #77920D; font-weight: bold; font-family: Inter; margin-left: 30px; padding-right: -15px; text-decoration: none;" onmouseover="this.style.color= '#FFFFFF'" onmouseout="this.style.color= '#77920D'">Register</a>
             </li>
           </ul>
         </div>  
@@ -310,6 +310,5 @@
   <!-- Copyright -->
 </footer>
 </div>
-
 </body>
 </html>
